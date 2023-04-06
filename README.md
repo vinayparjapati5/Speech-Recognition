@@ -67,7 +67,7 @@ ImportError: No module named pyaudio
     </clipboard-copy>
   </div></div>
   
-  # Finally_Code
+  # Code
   
   import speech_recognition as sr
 
